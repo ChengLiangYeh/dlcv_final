@@ -1,6 +1,6 @@
 # DLCV Final Project ( Medical-Imaging )
 
-# How to run your code?
+### How to run your code?
 TODO: 
 1. Download our models:  
 ```
